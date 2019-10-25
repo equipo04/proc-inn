@@ -104,7 +104,7 @@
             },
             "H2": {
               "text-align": "center",
-              "color": "#232323"
+              "color": "#ffffff"
             }
           },
           "_name": "content5",
@@ -172,7 +172,7 @@
             },
             ".section-text": {
               "padding": "2rem 0",
-              "color": "#232323"
+              "color": "#ffffff"
             },
             ".inner-container": {
               "margin": "0 auto"
