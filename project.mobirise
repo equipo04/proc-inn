@@ -103,7 +103,8 @@
               "background-image": "url(@bg-value)"
             },
             "H2": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#232323"
             }
           },
           "_name": "content5",
@@ -170,7 +171,8 @@
               "margin": "0 auto"
             },
             ".section-text": {
-              "padding": "2rem 0"
+              "padding": "2rem 0",
+              "color": "#232323"
             },
             ".inner-container": {
               "margin": "0 auto"
